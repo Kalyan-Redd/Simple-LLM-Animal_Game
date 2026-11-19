@@ -2,7 +2,7 @@
 
 A Streamlit app where you guess a secret animal by asking yes/no questions. The game is powered by the University of Osnabrück LLM.
 
-**Live app:** https://simple-animal-game.streamlit
+**Live app:** [https://simple-animal-game.streamlit](https://simple-animal-game.streamlit.app/)
 
 ## How it works
 
